@@ -5,7 +5,7 @@ I found this [anemometer](https://moderndevice.com/products/wind-sensor) that co
 I also created the kicad document and this repo
 *Time Spent:* 2hr
 
-## 9/23
+## 9/27
 ### Schematic Time
 Today I worked on finalizing the schematic. I posted it in the slack channel to get feedback before I move on to the making of the PCB.
 <img width="720" height="341" alt="image_720" src="https://github.com/user-attachments/assets/2701ca05-c274-4f45-8e1f-a2893895d355" />
