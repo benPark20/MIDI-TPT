@@ -7,7 +7,7 @@ I also created the kicad document and this repo
 
 ## 9/27
 ### Schematic Time
-Today I worked on finalizing the schematic. I posted it in the slack channel to get feedback before I move on to the making of the PCB.\
+Today I worked on finalizing the schematic. I posted it in the slack channel to get feedback before I move on to the making of the PCB.
 
 <img width="720" height="341" alt="image_720" src="https://github.com/user-attachments/assets/2701ca05-c274-4f45-8e1f-a2893895d355" />
 
@@ -21,7 +21,7 @@ The Anemometer will measure how fast I am blowing air and I can translate that t
 ### Acting on feedback
 
 After some feedback I learned that I need an external ADC so I am using [this one](https://www.adafruit.com/product/856?srsltid=AfmBOoqUDW9lRRgYDhqV9-GxvOzXFku9BKXl2naoguj5eppcnvzZRftK) because it has all the channels I need. I also cleaned up my spi wiring and I added a second macro button.
-I learned that I was doing my spi wrong so I had to go back and fix that. I also added the breakouts for the rest of the GPIO on the Pi Pico
+I learned that I was doing my spi wrong so I had to go back and fix that. I also added the breakouts for the rest of the GPIO on the Pi Pico. With this, I am finalizing my schematic, and the next time I work on this I will have to set footprints and start the PCB
 
 <img width="719" height="497" alt="image_720" src="https://github.com/user-attachments/assets/f0096611-a472-4240-b529-b03618de0f42" />
 
