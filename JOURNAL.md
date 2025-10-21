@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/20/2025 - Worked on Schematic  
+## 10/20/2025 - Ported from #mini-midi-magic  
 
 ## 9/23
 ### Starting Research
