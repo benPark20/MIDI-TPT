@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/20/2025 - Ported from #mini-midi-magic  
+## 10/20/2025 5 PM - Ported from #mini-midi-magic  
 
 ## 9/23
 ### Starting Research
@@ -36,5 +36,12 @@ I learned that I was doing my spi wrong so I had to go back and fix that. I also
 <img width="719" height="497" alt="image_720" src="https://github.com/user-attachments/assets/f0096611-a472-4240-b529-b03618de0f42" />
 
 *Time Spent:* 4hr
+  
+
+## 10/20/2025 8 PM - Finished Schematic and Laid out PCB  
+
+I went ahead and finished out my schematic and cleaned it up. In order to easily have my PCB and CAD be integrated, I sketched out my plate design in CAD and imported it into KiCAD. Then I laid out all of the components, using measurements that I got off of my real trumpet. It was tricky to cram them all in there while keeping them all on the top. I did this because it will be cooler to show off a densely packed board to all the band kids. Next step will be routing the PCB, and that is going to be hard.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--b723b6055d93f9b08c0f45e7aa8edb1f54c7298b/image.png)
   
 
